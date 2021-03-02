@@ -1,8 +1,14 @@
 ## Xiaoyang Wang_Resume
 
-185 Freeman St, Brookline, MA 02446 - tel:617-8701784 - mrwangxiaoyang@163.com - [Github]https://github.com/gnayoaixgnaw [LinkedIn](https://www.linkedin.com/in/xiaoyang-wang-a57798205/)
+185 Freeman St, Brookline, MA 02446 - tel:617-8701784 - e-mail:mrwangxiaoyang@163.com - [Github](https://github.com/gnayoaixgnaw) [LinkedIn](https://www.linkedin.com/in/xiaoyang-wang-a57798205/)
 
--EDUCATION BACKGROUND![image](https://user-images.githubusercontent.com/71043501/109665109-d8789480-7b3b-11eb-9384-538bb12d9f36.png)
+### EDUCATION BACKGROUND
+
+Master of Science in Computer Information System	01/2020-05/2021
+Boston University, MA 
+Bachelor of Engineering in Software Engineering	09/2014-06/2018
+Chong Qing University, China 
+![image](https://user-images.githubusercontent.com/71043501/109665574-5046bf00-7b3c-11eb-9222-af654f8626b8.png)
 
 
 
