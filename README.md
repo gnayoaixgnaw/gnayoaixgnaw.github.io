@@ -1,6 +1,6 @@
 ## Xiaoyang Wang_Resume
 
-185 Freeman St, Brookline, MA 02446 - tel:617-8701784 - mrwangxiaoyang@163.com - https://github.com/gnayoaixgnaw ![LinkedIn](https://www.linkedin.com/in/xiaoyang-wang-a57798205/)
+185 Freeman St, Brookline, MA 02446 - tel:617-8701784 - mrwangxiaoyang@163.com - [Github]https://github.com/gnayoaixgnaw [LinkedIn](https://www.linkedin.com/in/xiaoyang-wang-a57798205/)
 
 -EDUCATION BACKGROUND![image](https://user-images.githubusercontent.com/71043501/109665109-d8789480-7b3b-11eb-9384-538bb12d9f36.png)
 
