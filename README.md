@@ -4,10 +4,10 @@
 
 ### EDUCATION BACKGROUND
 
-  Master of Science in Computer Information System	    01/2020-05/2021
-Boston University, MA 
-  Bachelor of Engineering in Software Engineering	09/2014-06/2018
-Chong Qing University, China 
+  Master of Science in Computer Information System 01/2020-05/2021  
+Boston University, MA   
+  Bachelor of Engineering in Software Engineering	09/2014-06/2018  
+Chong Qing University, China  
 
 
 
